@@ -1,0 +1,30 @@
+<head>
+  <style>
+    body {
+      background-color: white;
+      font-family: Arial, sans-serif;
+    }
+    .header {
+      height: 300px;
+      background-image: url("https://static.wikia.nocookie.net/qsmp/images/4/48/Starbobby_Day.png/revision/latest/scale-to-width-down/250?cb=20230626014800");
+      background-size: cover;
+      background-position: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .header h1 {
+      color: white;
+      font-size: 48px;
+    }
+    .content {
+      margin: 20px;
+      font-size: 18px;
+    }
+    .footer {
+      height: 200px;
+      background-image: url(https://static.wikia.nocookie.net/qsmp/images/7/7b/Starbobby_Night_2.png/revision/latest/scale-to-width-down/250?cb=20230715030638);
+      background-size: cover;
+      background-position: center;
+    }
+  </style>
